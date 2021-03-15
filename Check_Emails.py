@@ -9,7 +9,6 @@ References :
 - https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-26855.yaml
 - https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/
 - https://proxylogon.com
-- https://github.com/Udyz/CVE-2021-26855/
 - https://github.com/Udyz/Proxylogon/ 
 
 '''
